@@ -7,3 +7,4 @@ Find the application "XAMMP-control" inside XAMPP double click on it and it will
 Now you just need to start "Apache" and "MySQL".
 Hurray, 🎉 Everything done.
 Now you just need to go to the browser here its "chrome" and in URL section you have to write- "localhost/"your file name inside hddocs"/login.php
+Don't forget to give me party🥲.
